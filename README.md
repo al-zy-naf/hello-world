@@ -1,2 +1,2 @@
 # Hello World
-Just a simple repository for learning purpose
+Just a simplee repository for learning purpose
